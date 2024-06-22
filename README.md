@@ -22,9 +22,9 @@
 Descripción breve del proyecto. ¿Qué tecnologías usaste? ¿Cuál fue el objetivo del proyecto?
 
 ## Contacto
-- LinkedIn: ([https://www.linkedin.com/in/tu-perfil/](https://www.linkedin.com/in/andreyfelipepintouribe77/)
+- LinkedIn: [https://www.linkedin.com/in/andreyfelipepintouribe77/](https://www.linkedin.com/in/andreyfelipepintouribe77/)
 - Email: developerpinto77@gmail.com
-- GitHub: [Tu Perfil de GitHub](https://github.com/pintofelipe77)
+- GitHub: [https://github.com/pintofelipe77](https://github.com/pintofelipe77)
 
 ¡Gracias por visitar mi perfil de GitHub! No dudes en contactarme si tienes alguna pregunta o si quieres colaborar en algún proyecto.
 
