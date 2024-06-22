@@ -28,6 +28,5 @@ Descripción breve del proyecto. ¿Qué tecnologías usaste? ¿Cuál fue el obje
 
 ¡Gracias por visitar mi perfil de GitHub! No dudes en contactarme si tienes alguna pregunta o si quieres colaborar en algún proyecto.
 
----
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
+
